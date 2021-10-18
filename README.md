@@ -1,4 +1,4 @@
-# \Integration Validator
+# Integration Validator
 This tool will help sellers validate the API endpoints which they need to set up for Fast. It will allow making individual calls to Create/Read/Update endpoints. We will add support for Delete endpoint very soon.
 
 ## Prerequisites
